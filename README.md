@@ -26,8 +26,10 @@ to my personal GitHub profile!
 
 <hr>
 <div align="center">
-<p>Let me know if you liked my groovy music!</p>
-<a href="https://github.com/cybrBeto/cybrBeto/issues"><img src="https://github.com/cybrBeto/cybrBeto/blob/main/images/guestbook.gif" alt="Guest book" align="center"></a>
+<a href="https://github.com/cybrBeto/cybrBeto/issues">Let me know if you liked my groovy music, write a comment here! </a>
+<div>
+<img src="https://github.com/cybrBeto/cybrBeto/blob/main/images/guestbook.gif" alt="Guest book" align="center"></a>
+</div>
 </div>
 
 <hr>
