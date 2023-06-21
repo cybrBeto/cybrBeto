@@ -13,9 +13,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/cybrBeto/cybrBeto/blob/main/images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
-  <br />
-  <br />
 
 </div>
 
@@ -23,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
+<a href="https://albertovald.es">
 <strong>Visit my personal website </strong>
 <br />
 <br />
@@ -31,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>
 
-<img alt="Globe" height="80" src="images/globe.gif">
+<img alt="Globe" height="80" src="images/website.gif">
 </a>
 </p>
 
@@ -39,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 <strong>Listen to cool music</strong>
 <br />
 <br />
@@ -53,7 +50,3 @@ You can click the Preview link to take a look at your changes.
 </td>
 </tr>
 </table>
-
-<div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
-</div>
