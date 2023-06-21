@@ -23,6 +23,13 @@ to my personal GitHub profile!
 <img src="https://github.com/cybrBeto/cybrBeto/blob/main/images/music.gif" alt="Music" align="center">
 </div>
 </div>
+
+<hr>
+<div align="center">
+<p>Let me know if you liked my groovy music!</p>
+<a href="https://github.com/cybrBeto/cybrBeto/issues"><img src="https://github.com/cybrBeto/cybrBeto/blob/main/images/guestbook.gif" alt="Guest book" align="center"></a>
+</div>
+
 <hr>
 
 <div align="center">
