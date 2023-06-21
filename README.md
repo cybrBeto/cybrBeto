@@ -7,52 +7,6 @@
 cybrBeto/cybrBeto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<!-- "Hero" Header -->
-<div align="center">
-  <img src="https://github.com/cybrBeto/cybrBeto/blob/main/images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
-
-</div>
-
-<!-- Social -->
-<table width="100%" align="center">
-<tr>
-<td align="center">
-<a href="https://albertovald.es">
-<strong>Visit my personal website </strong>
-<br />
-<br />
-<br />
-
-<p>
-
-<img alt="Globe" height="80" src="images/website.gif">
-</a>
-</p>
-
-</td>
-
-
-<td align="center">
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-<strong>Listen to cool music</strong>
-<br />
-<br />
-
-
-<p>
-<img height="100" alt="Music" src="images/music.gif"> 
-</a>
-</p>
-
-</td>
-</tr>
-</table>
-
-new section we'll see which one is better later
-
 <div align="center">
 <img src="https://github.com/cybrBeto/cybrBeto/blob/main/images/welcome-fire.gif" alt="Welcome" align="center">
 </div>
@@ -68,7 +22,12 @@ to my personal GitHub profile!
 </h3>
 
 <hr>
-
+<div align="center">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Click here for some groovy music!</a>
+<div>
+<img src="https://github.com/cybrBeto/cybrBeto/blob/main/images/music.gif" alt="Music" align="center">
+</div>
+</div>
 <hr>
 
 <div align="center">
