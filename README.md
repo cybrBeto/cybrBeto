@@ -40,9 +40,11 @@ to my personal GitHub profile!
 <img src="https://github.com/cybrBeto/cybrBeto/blob/main/images/smile.gif" alt="Smiley" align="center">
 </div>
 </div>
+<hr>
 
-add profile counter here
+![](https://komarev.com/ghpvc/?username=cybrBeto&color=39ff14&style=plastic)
 
+<hr>
 <div align="center">
 <img src="https://github.com/cybrBeto/cybrBeto/blob/main/images/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
 </div>
